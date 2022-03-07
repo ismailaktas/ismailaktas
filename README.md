@@ -14,8 +14,8 @@
 <hr>
 
 - `.Net/Core`, `C#`, `VB`, `Php`, `MSSQL`, `MySQL`, `TSQL`, `PL/SQL`, `Web Api`
-- `Object Oriented`, `Reporting (Crystal, Sql, Reportico)`, `SharePoint (Development)`
 - `TypeScript` `Javascript`, `JQuery`, `Ionic`, `Angular4+`, `Html`, `Css`
+- `Object Oriented`, `Reporting (Crystal, Sql, Reportico)`, `SharePoint (Development)`
 - `Git`, `Tfs`, `Svn`, `Vss`
 
 <br>
