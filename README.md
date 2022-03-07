@@ -20,11 +20,11 @@
 
 <br>
 <p>
- <h3>My Info</h3>
+ <h3>Contact</h3>
 </p>
 <hr>
 
-- [My Web Site](https://www.ismailaktas.com)  
+- [Web Site](https://www.ismailaktas.com)  
 - [Email](mailto:aktasismail@yahoo.com)
 - [LinkedIn](https://www.linkedin.com/in/ismail-akta%C5%9F-927a0b52)
 - [Superpeer](https://superpeer.com/ismailaktas)
