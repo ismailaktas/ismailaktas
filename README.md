@@ -1,6 +1,6 @@
 ### Hi, I'm İsmail 👋
 <p>
-  Developer
+  Software Developer
   <br>
   Web | Mobil (Hybrid) | Desktop | Frontend | Backend | Database
   <br>
