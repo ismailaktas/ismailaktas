@@ -4,7 +4,7 @@
   <br>
   Web | Mobil (Hybrid) | Desktop | Frontend | Backend | Database
   <br>
-  Microsoft Certified Proffesional
+  Microsoft Certified Proffesional (IIS)
 </p>
 
 <br>
@@ -13,11 +13,14 @@
 </p>
 <hr>
 
-- `Web Ecosystem (Http, Restfull, Life Cycles)`
-- `.Net/Core`, `C#`, `VB`, `Php`, `MSSQL`, `MySQL`, `TSQL`, `PL/SQL`, `Web Api`
-- `TypeScript` `Javascript`, `JQuery`, `Ionic`, `Angular4+`, `Html`, `Css`
-- `Object Oriented`, `Reporting (Crystal, Sql, Reportico)`, `SharePoint (Development)`
+- `Web Ecosystem (Http, Restfull, Life Cycles, ...)`, `Object Oriented Programming`
+- `.Net (Core, MVC, Web Forms)`, `C#`, `VB`, `PHP`
+- `MSSQL`, `MySQL`, `TSQL`, `PL/SQL`
+- `TypeScript`, `JavaScript`, `Angular4+`, `JQuery`, `Ionic`
+- `Reporting (Crystal, Sql, Reportico)`, `SharePoint (Development)`
+- `HTML`, `CSS`, `UI (Bootstrap, Metronic, Semantic)`
 - `Git`, `Tfs`, `Svn`, `Vss`
+- `Apache`, `IIS`
 
 <br>
 <p>
