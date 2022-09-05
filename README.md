@@ -14,7 +14,7 @@
 <hr>
 
 - `Web Ecosystem (Http, Restfull, Life Cycles, ...)`, `Object Oriented Programming`
-- `.Net (Core, MVC, Web Forms)`, `C#`, `VB`, `PHP`
+- `.Net (Core, MVC, Web Forms)`, `C#`, `VB`, `PHP (Custom Php, Not Frameworks)`, `Node.js`
 - `MSSQL`, `MySQL`, `TSQL`, `PL/SQL`
 - `TypeScript`, `JavaScript`, `Angular4+`, `JQuery`, `Ionic`
 - `Reporting (Crystal, Sql, Reportico)`, `SharePoint (Development)`
