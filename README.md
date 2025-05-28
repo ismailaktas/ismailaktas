@@ -18,7 +18,7 @@
 - `Microservices (Ocelot, Consul)`
 - `MSSQL`, `MySQL`, `TSQL`, `PL/SQL`, `Redis`
 - `TypeScript`, `JavaScript`, `Angular4+`, `JQuery`
-- `Ionic Cordova/Capacitor`, `Flutter`
+- `Ionic Cordova/Capacitor`, `Flutter(6/10)`
 - `Reporting (Crystal, Sql, Reportico)`, `SharePoint (Development)`
 - `HTML`, `CSS`, `UI (Bootstrap, Metronic, Semantic)`
 - `Git`, `Tfs`, `Svn`, `Vss`
