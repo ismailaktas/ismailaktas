@@ -13,14 +13,17 @@
 </p>
 <hr>
 
-- `Web Ecosystem (Http, Restfull, Life Cycles, ...)`, `Object Oriented Programming`
+- `Web Ecosystem (Http, Restful, Life Cycles, ...)`, `Object Oriented Programming`
 - `.Net (Core, MVC, Web Forms)`, `C#`, `VB`, `PHP (Custom Php, Not Frameworks)`, `Node.js`
+- `Microservices (Ocelot, Consul)`
 - `MSSQL`, `MySQL`, `TSQL`, `PL/SQL`, `Redis`
-- `TypeScript`, `JavaScript`, `Angular4+`, `JQuery`, `Ionic`
+- `TypeScript`, `JavaScript`, `Angular4+`, `JQuery`
+- `Ionic Cordova/Capacitor`, `Flutter`
 - `Reporting (Crystal, Sql, Reportico)`, `SharePoint (Development)`
 - `HTML`, `CSS`, `UI (Bootstrap, Metronic, Semantic)`
 - `Git`, `Tfs`, `Svn`, `Vss`
 - `Apache`, `IIS`
+- `Jira`, `BitBucket`, `Trello`, ... 
 
 <br>
 <p>
@@ -32,7 +35,6 @@
 - [Email](mailto:aktasismail@yahoo.com)
 - [LinkedIn](https://www.linkedin.com/in/ismail-akta%C5%9F-927a0b52)
 - [Superpeer](https://superpeer.com/ismailaktas)
-- [CV](https://www.ismailaktas.com/wp-content/uploads/2022/01/ismailaktascv.pdf)
 
 <br>
 <p>
